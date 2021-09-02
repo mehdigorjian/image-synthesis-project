@@ -1,5 +1,5 @@
 # image_synthesis
-Coputer graphics with C++ and openGL
+Coputer Graphics with C++ and openGL
 
 
 ## Project 01: 2D Diffuse Shading & Specular Highlight with Normal Maps
